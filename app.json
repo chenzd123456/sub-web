@@ -1,0 +1,11 @@
+{
+  "name": "sub-web",
+  "description": "Run sub-web on Heroku.",
+  "keywords": ["sub-web"],
+  "website": "https://github.com/chenzd123456/sub-web",
+  "repository": "https://github.com/chenzd123456/sub-web",
+  "stack": "container",
+  "env": {
+    
+  }
+}
